@@ -5,7 +5,7 @@ SVG diagram support for [RepoNova](https://github.com/CristianoCiuti/reponova).
 ## Install
 
 ```bash
-reponova lang add svg
+reponova lang add @reponova/lang-svg
 ```
 
 ## What it provides
