@@ -26,5 +26,11 @@
     "type": "language",
     "id": "svg",
     "extensions": [".svg"]
-  }
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristianoCiuti/reponova-lang-svg.git"
+  },
+  "homepage": "https://github.com/CristianoCiuti/reponova-lang-svg"
 }
